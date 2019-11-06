@@ -4,7 +4,7 @@ Cancer Prediction using ML in MATLAB/Octave
 # Software Required:
 MATLAB/Octave
 
-This ML model predicts whether a Tumour is Malignant or Benign, learning 10 diff. features of the tumour:
+# This ML model predicts whether a Tumour is Malignant or Benign, learning 10 diff. features of the tumour:
 1) Clump Thickness
 2) Uniformity of Cell Size
 3) Uniformity of Cell Shape
