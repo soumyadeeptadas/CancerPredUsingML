@@ -19,3 +19,5 @@ MATLAB/Octave
 9) Mitoses
 
 Logistic Regression Algorithm is used, along with Normalisation and PCA.
+
+![Regression Line](https://github.com/soumyadeeptadas/CancerPredUsingML/blob/master/images/Screenshot%20(332).png)
