@@ -18,8 +18,8 @@ MATLAB/Octave
 8) Normal Nucleoli
 9) Mitoses
 
-Logistic Regression Algorithm is used, along with Normalisation and PCA.
+Logistic Regression Algorithm is used.
 
-![Regression Line](https://github.com/soumyadeeptadas/CancerPredUsingML/blob/master/images/Screenshot%20(332).png)
+![Decision Boundary](https://github.com/soumyadeeptadas/CancerPredUsingML/blob/master/images/Screenshot%20(332).png)
 
 ![Output & Accuracies](https://github.com/soumyadeeptadas/CancerPredUsingML/blob/master/images/Screenshot%20(333).png)
