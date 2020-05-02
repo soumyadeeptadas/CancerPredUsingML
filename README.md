@@ -18,7 +18,7 @@ MATLAB/Octave
 8) Normal Nucleoli
 9) Mitoses
 
-Logistic Regression Algorithm used for classification.
+Regularized Logistic Regression Algorithm used for classification.
 
 ![Decision Boundary](https://github.com/soumyadeeptadas/CancerPredUsingML/blob/master/images/Screenshot%20(332).png)
 
